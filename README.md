@@ -4,6 +4,7 @@
 
 </br>
 </br>
+</br>
 
 ## My name is Vanessa and my nickname is vans! 👟
 
@@ -12,6 +13,7 @@
 - 💻 SRE at Zé Delivery 🛵  
 
 
+</br>
 </br>
 </br>
 </br>
