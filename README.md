@@ -1,4 +1,9 @@
-### Hi there 👋
+### Vanessa Araujo 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+          
+          
 
 <!--
 **vanessaaraujob/vanessaaraujob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
