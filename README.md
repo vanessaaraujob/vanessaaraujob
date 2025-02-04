@@ -10,7 +10,7 @@
 
 - 📚 Computer Engineering Student
 
-- 💻 SRE at Zé Delivery 🛵  
+- 💻 SRE at Itau Unibanco 
 
 
 </br>
