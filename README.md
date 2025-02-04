@@ -8,7 +8,7 @@
 
 ## My name is Vanessa and my nickname is vans! 👟
 
-- 📚 Computer Engineering Student
+- 📚 Computer Engineering
 
 - 💻 SRE at Itau Unibanco 
 
